@@ -1,0 +1,13 @@
+# Data manipulation and analysis
+pandas==1.5.3
+numpy==1.23.5
+
+# Visualization
+matplotlib==3.7.2
+seaborn==0.12.1
+
+# Machine learning
+scikit-learn==1.2.2
+
+# Jupyter Notebook (optional if users want to run .ipynb files)
+jupyter==1.0.0
